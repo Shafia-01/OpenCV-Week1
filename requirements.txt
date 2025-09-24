@@ -1,0 +1,10 @@
+opencv-contrib-python
+numpy
+matplotlib
+scikit-image
+scikit-learn
+jupyter
+notebook
+imutils
+imageio
+tqdm
