@@ -28,8 +28,8 @@ OpenCV-Week1/
 │ └── opencv_windows.md                 # Notes on Windows vs Linux handling
 │
 ├── README.md                           # Project documentation 
-├── requirements.txt                    # Python dependencies
-└── report/Assignment.pdf               # Comprehensive Report
+├── Report.pdf                          # Comprehensive Report
+└── requirements.txt                    # Python dependencies
 ```
 
 ## ⚙️ Installation
@@ -65,7 +65,7 @@ python exercises/assignment1_basics.py
 - Notes: Markdown files with image processing concepts and OpenCV module details.
 - Research: Markdown files with OpenCV applications and platform differences.
 - Images/Outputs: Demo inputs and results.
-- Report: Comprehensive report.
+- Report: Comprehensive report summarizing the work done.
 
 ## 🔗 References
 - [OpenCV Documentation](https://docs.opencv.org/4.x/d9/df8/tutorial_root.html)
